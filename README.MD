@@ -37,11 +37,11 @@ O projeto está em sempre constante atualizações que está voltada as **Tarefa
 
 >***
 >
->## Lincença:
->Este projeto está sob a licença MIT. Veja o arquivo **[LICENSE](LICENSE.txt)** para mais detalhes.
->## **Autor:**
->Feito Por **[GoomezCode](https://github.com/GoomezCode)**
->Email para Contato @danielgdpaula@gmail.com
+> ## Lincença:
+> Este projeto está sob a licença MIT. Veja o arquivo **[LICENSE](LICENSE.txt)** para mais detalhes.
+> ## **Autor:**
+> Feito Por **[GoomezCode](https://github.com/GoomezCode)**
+> Email para Contato @danielgdpaula@gmail.com
 >
 >***
 
